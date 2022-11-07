@@ -1,4 +1,4 @@
-- 👋 Hi, i'm Рустам Гусейнов
+- 👋 Hi, i'm Rustam Guseinov
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning development of react applications
 - 💞️ I’m looking to collaborate on in the field of frontend development
