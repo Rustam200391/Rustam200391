@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hrust_dev:+1
+- 👋 Hi, Рустам Гусейнов
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning development of react applications
 - 💞️ I’m looking to collaborate on in the field of frontend development
