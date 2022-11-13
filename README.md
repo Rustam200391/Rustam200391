@@ -1,3 +1,10 @@
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+### :woman_technologist: About Me :
 - 👋 Hi, i'm Rustam Guseinov
 - 👀 I’m interested in Frontend-development
 - 🌱 I’m currently learning development of react applications
@@ -5,10 +12,9 @@
 - 📫 How to reach me: t\me @Hrust_dev
 ---
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/pjzDQopYUV63qM6tam/giphy.gif" width="600" height="300"/>
 </div>
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
