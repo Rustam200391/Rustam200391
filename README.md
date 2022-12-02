@@ -27,7 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
+</div>
 
 <!---
 Rustam200391/Rustam200391 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
