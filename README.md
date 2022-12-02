@@ -5,11 +5,9 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/rustamguseinov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
-<div id="header" align="center">
-  <img src="https://Rustam200391.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
- </div>
 
 ### :woman_technologist: About Me :
 - 👋 Hi, i'm Rustam Guseinov
