@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 - 👋 Hi, i'm Rustam Guseinov
 - 👀 I’m interested in Frontend-development
-- 🌱 I’m currently learning development of react(ts) applications
+- 🌱 I’m currently learning development of ReactJS(TS) applications
 - 💞️ I’m looking to collaborate on in the field of frontend development
 - 📫 How to reach me: t\me @Hrust_dev, email: rg20031991gmail.com
 ---
