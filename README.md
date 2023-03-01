@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-  <h2><a href="https://content.time.com/time/specials/packages/0,28757,2019341,00.html" alt="you">Time magazine's Person of the Year</a></h2>
+  <h2><a href="https://content.time.com/time/specials/packages/0,28757,2019341,00.html" alt="you">man of the Year 2006 according to Time magazine</a></h2>
 
 ### :woman_technologist: About Me :
 - 👋 Hi, i'm Rustam Guseinov
