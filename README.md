@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40" /> &nbsp;
 </div>
 
 <br /><div id="header" align="center">
