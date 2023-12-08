@@ -13,7 +13,7 @@
 
   <h2 text-align: center;><a href="https://content.time.com/time/specials/packages/0,28757,2019341,00.html" alt="you" style="text-align: center">man of the Year 2006 according to Time magazine</a></h2>
 
-### :woman_technologist: About Me :
+###  About Me :
 - 👋 Hi, i'm Rustam Guseinov
 - 👀 I’m interested in Frontend-development
 - 🌱 I’m currently learning development of ReactJS(TS) applications
