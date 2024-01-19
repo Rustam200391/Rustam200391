@@ -45,6 +45,8 @@
 <br /><div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rustam200391&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rustam200391&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
