@@ -48,7 +48,9 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rustam200391&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<p align="center">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=rustam200391&theme=dark&background=000000" alt="GitHub Streak">
+</p>
 <!---
 Rustam200391/Rustam200391 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
