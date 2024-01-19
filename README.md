@@ -47,7 +47,7 @@
 </div>
 
 
-<div style='text-align:center;'>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rustam200391&theme=dark&background=000000)](https://git.io/streak-stats)</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rustam200391&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!---
