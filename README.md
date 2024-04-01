@@ -18,7 +18,7 @@
 - 👀 I’m interested in Frontend-development
 - 🌱 I’m currently learning development of ReactJS(TS) applications
 - 💞️ I’m looking to collaborate on in the field of frontend development
-- 📫 How to reach me: t\me @Hrust_dev, email: rg20031991gmail.com
+- 📫 How to reach me: t\me @Hrust_dev, email: <ins>rg20031991gmail.com</ins>
 ---
 
 <div align="center">
