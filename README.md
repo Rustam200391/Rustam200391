@@ -21,7 +21,7 @@
 - 📫 How to reach me: t\me @Hrust_dev, email: <ins>rg20031991gmail.com</ins>
 ---
 <div align="center">
-  <iframe src="https://giphy.com/embed/UVIpjKNM6cSxSuK92M" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PROSIS-GmbH-prosis-dasitunternehmen-prosisgmbh-UVIpjKNM6cSxSuK92M">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/UVIpjKNM6cSxSuK92M(https://media.giphy.com/media/UVIpjKNM6cSxSuK92M/giphy.gif)" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
 
 
