@@ -20,9 +20,7 @@
 - 💞️ I’m looking to collaborate on in the field of frontend development
 - 📫 How to reach me: t\me @Hrust_dev, email: <ins>rg20031991gmail.com</ins>
 ---
-<div align="center">
-  <img src="https://giphy.com/embed/UVIpjKNM6cSxSuK92M(https://media.giphy.com/media/UVIpjKNM6cSxSuK92M/giphy.gif)" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen/>
-</div>
+
 
 
 <div align="center">
