@@ -20,6 +20,10 @@
 - 💞️ I’m looking to collaborate on in the field of frontend development
 - 📫 How to reach me: t\me @Hrust_dev, email: <ins>rg20031991gmail.com</ins>
 ---
+<div align="center">
+  <iframe src="https://giphy.com/embed/UVIpjKNM6cSxSuK92M" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PROSIS-GmbH-prosis-dasitunternehmen-prosisgmbh-UVIpjKNM6cSxSuK92M">via GIPHY</a></p>
+</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/pjzDQopYUV63qM6tam/giphy.gif" width="600" height="300"/>
