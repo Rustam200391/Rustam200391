@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-  <h2 text-align: center;><a href="https://content.time.com/time/specials/packages/0,28757,2019341,00.html" alt="you" style="text-align: center">man of the Year 2006 according to Time magazine</a></h2>
+  
 
 ###  About Me :
 - 👋 Hi, i'm Rustam Guseinov
@@ -21,7 +21,7 @@
 - 📫 How to reach me: t\me @Hrust_dev, email: <ins>rg20031991gmail.com</ins>
 ---
 
-
+<h2 text-align: center;><a href="https://content.time.com/time/specials/packages/0,28757,2019341,00.html" alt="you" style="text-align: center">man of the Year 2006 according to Time magazine</a></h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/pjzDQopYUV63qM6tam/giphy.gif" width="600" height="300"/>
