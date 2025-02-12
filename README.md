@@ -20,9 +20,9 @@
 - 💞️ I’m looking to collaborate on in the field of frontend development
 - 📫 How to reach me: t\me @Hrust_dev, email: <ins>rg20031991gmail.com</ins>
 ---
-
+<div align="center">
 <h2 text-align: center;><a href="https://content.time.com/time/specials/packages/0,28757,2019341,00.html" alt="you" style="text-align: center">man of the Year 2006 according to Time magazine</a></h2>
-
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/pjzDQopYUV63qM6tam/giphy.gif" width="600" height="300"/>
 </div>
