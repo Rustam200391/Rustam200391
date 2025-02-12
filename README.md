@@ -10,9 +10,9 @@
      <a href="https://www.linkedin.com/in/rustam-guseinov-476925258/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
-
+<div  align="center">
   <h2 text-align: center;><a href="https://content.time.com/time/specials/packages/0,28757,2019341,00.html" alt="you" style="text-align: center">man of the Year 2006 according to Time magazine</a></h2>
-
+</div>
 ###  About Me :
 - 👋 Hi, i'm Rustam Guseinov
 - 👀 I’m interested in Frontend-development
