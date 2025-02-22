@@ -44,10 +44,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40" /> &nbsp;
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Rustam200391&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <br /><div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rustam200391)](https://git.io/streak-stats)
 
 <!---
 Rustam200391/Rustam200391 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
