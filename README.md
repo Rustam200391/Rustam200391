@@ -47,7 +47,7 @@
 <br /><div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rustam200391)](https://git.io/streak-stats)
 
 <!---
 Rustam200391/Rustam200391 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
