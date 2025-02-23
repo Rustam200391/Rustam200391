@@ -43,10 +43,6 @@
 </div>
 
 
-<br /><div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
-
-</div>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Rustam200391&theme=dark&background=000000" alt="GitHub Streak">
