@@ -44,9 +44,6 @@
 
 
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Rustam200391&theme=dark&background=000000" alt="GitHub Streak">
-</p>
 
 
 
