@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="200px" height="200px"/>
 </div>
+</br>
 
 <div id="badges" align="center">
   <a href="https://vk.com/rustamguseinov">
